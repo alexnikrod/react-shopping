@@ -1,154 +1,154 @@
 [
-    {
-      "id": 0,
-      "title": "Происхождение",
-      "author": "Дэн Браун",
-      "image": "https://cv9.litres.ru/pub/c/elektronnaya-kniga/cover_415/27624091-den-braun-proishozhdenie-27624091.jpg",
-      "price": 710,
-      "rating": 3
-    },
-    {
-      "id": 1,
-      "title": "1984",
-      "author": "Джордж Оруэлл",
-      "image": "https://cv0.litres.ru/sbc/09233908_cover_185-elektronnaya-kniga--.jpg",
-      "price": 415,
-      "rating": 5
-    },
-    {
-      "id": 2,
-      "title": "Девушка в тумане",
-      "author": "Донато Карризи",
-      "image": "https://cv2.litres.ru/sbc/31635724_cover_185-elektronnaya-kniga-donato-karrizi-devushka-v-tumane.jpg",
-      "price": 464,
-      "rating": 4
-    },
-    {
-      "id": 3,
-      "title": "Империя должна умереть",
-      "author": "Михаил Зыгарь",
-      "image": "https://cv0.litres.ru/sbc/30804904_cover_185-elektronnaya-kniga-mihail-zygar-imperiya-dolzhna-umeret.jpg",
-      "price": 741,
-      "rating": 3
-    },
-    {
-      "id": 4,
-      "title": "Земное притяжение",
-      "author": "Татьяна Устинова",
-      "image": "https://cv9.litres.ru/sbc/30087292_cover_185-elektronnaya-kniga-tatyana-ustinova-zemnoe-prityazhenie.jpg",
-      "price": 317,
-      "rating": 1
-    },
-    {
-      "id": 5,
-      "title": "Зулейха открывает глаза",
-      "author": "Гузель Яхина",
-      "image": "https://cv5.litres.ru/sbc/17411250_cover_185-elektronnaya-kniga-guzel-yahina-zuleyha-otkryvaet-glaza-2.jpg",
-      "price": 254,
-      "rating": 0
-    },
+  {
+    "id": 0,
+    "title": "Functional React: Quick start with React Hooks, Redux and MobX",
+    "author": "Cristian Salcescu",
+    "image": "https://m.media-amazon.com/images/I/41bJ7IjKn-L.jpg",
+    "price": 11,
+    "rating": 4
+  },
+  {
+    "id": 1,
+    "title": "React Explained: Your Step-by-Step Guide to React",
+    "author": "Zac Gordon",
+    "image": "https://m.media-amazon.com/images/I/51PNQd7RIwL.jpg",
+    "price": 25.72,
+    "rating": 4
+  },
+  {
+    "id": 2,
+    "title": "Pro React 16",
+    "author": "Adam Freeman",
+    "image": "https://m.media-amazon.com/images/I/411Forn86vL.jpg",
+    "price": 29.99,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "title": "Learning React: Functional Web Development with React and Redux",
+    "author": "Alex Banks, Eve Porcello",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51Q43WRXJzL._SX379_BO1,204,203,200_.jpg",
+    "price": 28.70,
+    "rating": 4
+  },
+  {
+    "id": 4,
+    "title": "Programming TypeScript: Making Your JavaScript Applications Scale",
+    "author": "Boris Cherny",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/511YUCKEYrL._SX379_BO1,204,203,200_.jpg",
+    "price": 20.65,
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "title": "Effective TypeScript: 62 Specific Ways to Improve Your TypeScript",
+    "author": "Dan Vanderkam",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41jnU0V%2BcBL._SX379_BO1,204,203,200_.jpg",
+    "price": 20.01,
+    "rating": 4
+  },
     {
       "id": 6,
-      "title": "Очаровательный кишечник. Как самый могущественный орган управляет нами",
-      "author": "Джулия Эндерс",
-      "image": "https://cv7.litres.ru/pub/c/elektronnaya-kniga/cover_120/12178377-dzhuliya-enders-ocharovatelnyy-kishechnik-kak-samyy-moguschestvennyy-organ-upravlyaet-nami-12178377.jpg",
-      "price": 573,
+      "title": "Learning Redux: Write maintainable, consistent, and easy-to-test web applications",
+      "author": "Daniel Bugl",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41gxBZ8GNpL._SX403_BO1,204,203,200_.jpg",
+      "price": 83.27,
       "rating": 4
     },
     {
       "id": 7,
-      "title": "iPhuck 10",
-      "author": "Виктор Пелевин",
-      "image": "https://cv7.litres.ru/sbc/31221870_cover_185-elektronnaya-kniga-viktor-pelevin-iphuck-10-25564903.jpg",
-      "price": 246,
+      "title": "Refactoring: Improving the Design of Existing Code",
+      "author": "Martin Fowler",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41odjJlPgHL._SX402_BO1,204,203,200_.jpg",
+      "price": 38.49,
       "rating": 0
     },
     {
       "id": 8,
-      "title": "7 навыков высокоэффективных людей: Мощные...",
-      "author": "Стивен Кови",
-      "image": "https://cv8.litres.ru/pub/c/elektronnaya-kniga/cover_415/4239285--.jpg",
-      "price": 347,
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "author": "Robert C. Martin",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51d1qVhmAmL._SX373_BO1,204,203,200_.jpg",
+      "price": 40.88,
       "rating": 5
     },
     {
       "id": 9,
-      "title": "Девушка во льду",
-      "author": "Роберт Брындза",
-      "image": "https://cv3.litres.ru/pub/c/elektronnaya-kniga/cover_415/27351732-robert-bryndza-12646976-devushka-vo-ldu.jpg",
-      "price": 882,
+      "title": "Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming",
+      "author": "Marijn Haverbeke",
+      "image": "https://m.media-amazon.com/images/I/51-5ZXYtcML.jpg",
+      "price": 19.98,
       "rating": 2
     },
     {
       "id": 10,
-      "title": "Магия утра. Как первый час дня определяет ваш успех",
-      "author": "Хэл Элрод",
-      "image": "https://cv1.litres.ru/pub/c/elektronnaya-kniga/cover_415/19063017-hel-elrod-magiya-utra.jpg",
-      "price": 829,
+      "title": "Head First Design Patterns: A Brain-Friendly Guide",
+      "author": "Eric Freeman, Elisabeth Freeman, Kathy Sierra, Bert Bates",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61APhXCksuL._SX430_BO1,204,203,200_.jpg",
+      "price": 34.95,
       "rating": 1
     },
     {
       "id": 11,
-      "title": "Азиатская европеизация. История Российского государства. Царь Петр...",
-      "author": "Борис Акунин",
-      "image": "https://cv3.litres.ru/sbc/31629439_cover_185-elektronnaya-kniga-boris-akunin-aziatskaya-evropeizaciya-istoriya-rossiyskogo-gosudarstva-car-petr-alekseevich.jpg",
-      "price": 389,
+      "title": "JavaScript: The Definitive Guide: Activate Your Web Pages (Definitive Guides)",
+      "author": "David Flanagan",
+      "image": "https://m.media-amazon.com/images/I/51CxDZt9xWL.jpg",
+      "price": 33.44,
       "rating": 2
     },
     {
       "id": 12,
-      "title": "Ведьмак (сборник)",
-      "author": "Анджей Сапковский",
-      "image": "https://cv6.litres.ru/pub/c/elektronnaya-kniga/cover_415/6375365-andzhey-sapkovskiy-vedmak.jpg",
-      "price": 424,
+      "title": "The Principles of Object-Oriented JavaScript",
+      "author": "Nicholas C. Zakas",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/518hypqfQVL._SX376_BO1,204,203,200_.jpg",
+      "price": 13.11,
       "rating": 3
     },
     {
       "id": 13,
-      "title": "Атлант расправил плечи",
-      "author": "Айн Рэнд",
-      "image": "https://cv7.litres.ru/pub/c/elektronnaya-kniga/cover_415/4236675-ayn-rend-atlant-raspravil-plechi.jpg",
-      "price": 157,
+      "title": "JavaScript: The Good Parts: The Good Parts",
+      "author": "Douglas Crockford ",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/511j6cza5bL._SX379_BO1,204,203,200_.jpg",
+      "price": 13.49,
       "rating": 2
     },
     {
       "id": 14,
-      "title": "Цена вопроса. Том 1",
-      "author": "Александра Маринина",
-      "image": "https://cv6.litres.ru/sbc/33285466_cover_185-elektronnaya-kniga-aleksandra-marinina-cena-voprosa-tom-1-22638660.jpg",
-      "price": 664,
+      "title": "Secrets of the JavaScript Ninja",
+      "author": "John Resig, Bear Bibeault, Josip Maras",
+      "image": "https://m.media-amazon.com/images/I/51BPzzavCJL.jpg",
+      "price": 44.99,
       "rating": 0
     },
     {
       "id": 15,
-      "title": "Исчезнувшая",
-      "author": "Гиллиан Флинн",
-      "image": "https://cv2.litres.ru/sbc/11029722_cover_185-elektronnaya-kniga-gillian-flinn-ischeznuvshaya.jpg",
-      "price": 476,
+      "title": "Grokking Algorithms",
+      "author": "Aditya Bhargava",
+      "image": "https://m.media-amazon.com/images/I/51jrhDk-UiL.jpg",
+      "price": 50.56,
       "rating": 4
     },
     {
       "id": 17,
-      "title": "Метро 2035",
-      "author": "Дмитрий Глуховский",
-      "image": "https://cv9.litres.ru/sbc/13698392_cover_185-elektronnaya-kniga-dmitriy-gluhovskiy-metro-2035.jpg",
-      "price": 837,
+      "title": "The Self-Taught Programmer: The Definitive Guide to Programming Professionally",
+      "author": "Cory Althoff",
+      "image": "https://m.media-amazon.com/images/I/41HII-0nFEL.jpg",
+      "price": 15,
       "rating": 4
     },
     {
       "id": 18,
-      "title": "Снеговик",
-      "author": "Ю Несбё",
-      "image": "https://cv6.litres.ru/pub/c/elektronnaya-kniga/cover_415/4578362-u-nesbe-snegovik-4578362.jpg",
-      "price": 796,
+      "title": "Beginning Node.js,  Express & MongoDB Development",
+      "author": "Greg Lim",
+      "image": "https://m.media-amazon.com/images/I/41lMD31ltzL.jpg",
+      "price": 16.99,
       "rating": 5
     },
     {
       "id": 19,
-      "title": "Как тренировать память. Не думайте о памяти – лучше используйте ее на все сто!",
-      "author": "Джонатан Хэнкок",
-      "image": "https://cv1.litres.ru/sbc/14195715_cover_185-elektronnaya-kniga-dzhonatan-henkok-kak-trenirovat-pamyat-ne-dumayte-o-pamyati-luchshe-ispolzuyte-ee-na-vse-sto.jpg",
-      "price": 399,
+      "title": "Node.js Design Patterns - Second Edition: Master best practices to build modular and scalable server-side web applications",
+      "author": "Mario Casciaro, Luciano Mammino",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51sh-NP1KvL._SX403_BO1,204,203,200_.jpg",
+      "price": 82.57,
       "rating": 5
     }
   ]

@@ -1,12 +1,13 @@
-import React from 'react';
-import { Menu, Popup, List, Button, Image } from 'semantic-ui-react';
-import { removeFromCart } from '../actions/cart';
+import React from "react";
+import { Menu, Popup, List, Button, Image } from "semantic-ui-react";
 
 const CartComponent = ({ title, id, image, removeFromCart }) => (
-  <List selection divided verticalAlign='middle'>
+  <List selection divided verticalAlign="middle">
     <List.Item>
-      <List.Content floated='right'>
-        <Button onClick={removeFromCart.bind(this, id)} color="red">Remove</Button>
+      <List.Content floated="right">
+        <Button onClick={removeFromCart.bind(this, id)} color="red">
+          Remove
+        </Button>
       </List.Content>
       <Image avatar src={image} />
       <List.Content>{title}</List.Content>
@@ -14,32 +15,41 @@ const CartComponent = ({ title, id, image, removeFromCart }) => (
   </List>
 );
 
+let state = {}
+const { activeItem } = state;
+
 const MenuComponent = ({ totalPrice, count, items }) => (
   <Menu>
     <Menu.Item
-      name='browse'
-      //onClick={this.handleItemClick}
+      name="browse"
+      active={activeItem === 'browse'}
+      onClick={() => window.location.reload(false)}
     >
-      Book Store
+      Web Development Book Store
     </Menu.Item>
 
-    <Menu.Menu position='right'>
+    <Menu.Menu position="right">
       <Menu.Item
-        name='signup'
+        name="signup"
         //onClick={this.handleItemClick}
       >
-        Total: &nbsp; <b>{totalPrice}</b>&nbsp; rub.
+        Total: &nbsp; <b>{totalPrice}</b>&nbsp; USD
       </Menu.Item>
 
-      <Popup 
+      <Popup
         trigger={
-          <Menu.Item name="help" 
-          //onClick={this.handleItemClick}
+          <Menu.Item
+            name="help"
+            //onClick={this.handleItemClick}
           >
             Cart (<b>{count}</b>)
           </Menu.Item>
         }
-        content={items.map(book => <CartComponent {...book} />)}
+        content={
+          count === 0
+            ? "cart is empty"
+            : items.map((book, i) => <CartComponent {...book} key={i} />)
+        }
         on="click"
         hideOnScroll
       />
@@ -48,5 +58,3 @@ const MenuComponent = ({ totalPrice, count, items }) => (
 );
 
 export default MenuComponent;
-
-
