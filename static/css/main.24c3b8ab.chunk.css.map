@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.css","Card.css"],"names":[],"mappings":"AAAA,KACI,eACJ,CAEA,MACI,kBACJ,CCNA,IACE,YACF","file":"main.24c3b8ab.chunk.css","sourcesContent":["body {\n    margin-top: 20px;\n}\n\n.menu {\n    margin-bottom: 20px;\n}","img {\n  height: 350px;\n}"]}
