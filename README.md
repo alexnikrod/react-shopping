@@ -1,14 +1,15 @@
 ## [DEMO](/)
 
-## Book Store - React JS App
+## Book Store - React JS + Redux App
 <p align="center">
   <img src="/" alt="Book Store React App"/>
 </p>
 
 **Stack:**
 
-- ReactJS (useState, useReducer, useEffect)
+- ReactJS
+- Redux
+- Lodash
+- Semantic UI
 - Axios
-- json-server
-- React Router
-- SCSS
+
