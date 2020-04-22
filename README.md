@@ -2,7 +2,7 @@
 
 ## Book Store - React JS + Redux App
 <p align="center">
-  <img src="/" alt="Book Store React App"/>
+  <img src="https://github.com/alexnikrod/react-shopping/blob/master/public/screen_shot.png" alt="Book Store React App"/>
 </p>
 
 **Stack:**
